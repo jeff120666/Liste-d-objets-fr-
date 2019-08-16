@@ -4,14 +4,14 @@
 		"abr": "(old)ceilinglamp",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp"
+		"defname": "CeilingLamp",
 		"traduction": "Lampe de plafond"
 	},
 	{
 		"abr": "(old)ceilinglamp",
 		"price": 49,
 		"category": "Furniture",
-		"defname": "CeilingLamp_Red"
+		"defname": "CeilingLamp_Red",
 		"traduction": "Lampe de plafond rouge"
 	},
 	{
