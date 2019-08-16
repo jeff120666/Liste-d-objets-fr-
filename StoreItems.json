@@ -5,6 +5,7 @@
 		"price": 49,
 		"category": "Furniture",
 		"defname": "CeilingLamp"
+		"traduction":"Lampe de plafond"
 	},
 	{
 		"abr": "(old)ceilinglamp",
