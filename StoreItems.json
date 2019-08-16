@@ -1,133 +1,133 @@
 {
 	"items" : [
 	{
-		"abr": "advancedcomponent",
+		"abr": "Composant avancé (advancedcomponent)",
 		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
-		"abr": "advancedhelmet",
+		"abr": "Casque avancé (advancedhelmet)",
 		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
-		"abr": "agavefruit",
+		"abr": "Fruit d'agave (agavefruit)",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawAgave"
 	},
 	{
-		"abr": "aipersonacore",
+		"abr": "Noyau IA de personnalité (aipersonacore)",
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "alpaca",
+		"abr": "Alpaga (alpaca)",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
-		"abr": "alpacameat",
+		"abr": "Viande d'alpaga (alpacameat)",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
-		"abr": "alpacawool",
+		"abr": "Laine d'alpaga (alpacawool)",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolAlpaca"
 	},
 	{
-		"abr": "alphabeaver",
+		"abr": "Alphacastor (alphabeaver)",
 		"price": 417,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
-		"abr": "alphabeavermeat",
+		"abr": "Viande d'alphacastor (alphabeavermeat)",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
 	{
-		"abr": "ambrosia",
+		"abr": "Ambroisie (ambrosia)",
 		"price": 25,
 		"category": "Drugs",
 		"defname": "Ambrosia"
 	},
 	{
-		"abr": "animalbed",
+		"abr": "Lit pour animaux (animalbed)",
 		"price": 136,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
 	{
-		"abr": "animalsleepingbox",
+		"abr": "Box pour petits animaux (animalsleepingbox)",
 		"price": 84,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox"
 	},
 	{
-		"abr": "antigrainwarhead",
+		"abr": "Ogive à antimatière (antigrainwarhead)",
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
-		"abr": "archotecharm",
+		"abr": "Bras archotec (archotecharm)",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechArm"
 	},
 	{
-		"abr": "archotecheye",
+		"abr": "Oeil archotech (archotecheye)",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechEye"
 	},
 	{
-		"abr": "archotechleg",
+		"abr": "Jambe archotech (archotechleg)",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
 	},
 	{
-		"abr": "arcticfox",
+		"abr": "Renard arctique (arcticfox)",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
-		"abr": "arcticwolf",
+		"abr": "Loups arctique (arcticwolf)",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
-		"abr": "armchair",
+		"abr": "Fauteuil (armchair)",
 		"price": 450,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
 	{
-		"abr": "assaultrifle",
+		"abr": "Fusil d'assault (assaultrifle)",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "autopistol",
+		"abr": "Pistolet automatique (autopistol)",
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "battery",
+		"abr": "Batterie (battery)",
 		"price": 333,
 		"category": "Power",
 		"defname": "Battery"
